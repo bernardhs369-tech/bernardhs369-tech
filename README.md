@@ -32,7 +32,6 @@
 
 ### 📫 Find Me
 
-- GitHub: [@bernardhs369-tech](https://github.com/bernardhs369-tech)
 - LinkedIn: [Bernardo Lima Turques](https://www.linkedin.com/in/bernardo-lima-turques-522587362/)
 - Email: bernardhs369@gmail.com
 
