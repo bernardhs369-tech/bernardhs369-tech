@@ -1,14 +1,28 @@
 # Hi, I'm Bernardo! 👋
 
-🎓 Software Engineering student, taking my first steps into the world of programming.
+Software Engineering student from Rio de Janeiro, Brazil, building my path toward a career as a Java developer.
 
-☕ Currently learning **Java**, exploring logic, control structures, and hands-on projects.
+- ☕ Focused on **Java** and **object-oriented programming**
+- 🌱 Learning by building: every concept I study turns into a small project
+- 🎯 Working towards my first role as a **software developer**
+- 📍 Rio de Janeiro, Brazil | 🎂 22 years old
 
-💻 Working towards becoming a **software developer**.
+---
 
-🌱 Always studying and building projects to grow as a developer.
+### 📂 Projects
 
-📍 Rio de Janeiro, Brazil | 🎂 22 years old
+| Repository | What's inside |
+|---|---|
+| [java-study](https://github.com/bernardhs369-tech/java-study) | Java fundamentals: loops, `Scanner` input, control structures, and small programs such as a school report system and a password validator |
+| [java-oop](https://github.com/bernardhs369-tech/java-oop) | Object-oriented programming exercises: encapsulation, constructors, methods with business rules, and input validation |
+
+---
+
+### 📚 Currently learning
+
+- Object-oriented programming in Java
+- Writing clean, readable code (naming conventions, validation, encapsulation)
+- Git and GitHub workflow
 
 ---
 
@@ -26,7 +40,6 @@
 ![GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=bernardhs369-tech&show_icons=true&theme=default)
 
 ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bernardhs369-tech&layout=compact)
-
 
 ---
 
